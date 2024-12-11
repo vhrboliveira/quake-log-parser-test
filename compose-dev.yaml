@@ -1,0 +1,14 @@
+services:
+  quake-log-parser:
+    container_name: quake-log-parser
+    image: quake-log-parser
+    command: air
+    restart: unless-stopped
+    environment:
+      - LOG_FILE=${LOG_FILE}
+    build:
+      context: .
+      dockerfile: local.Dockerfile
+    volumes:
+      - ./:/app
+      - /app/tmp # Used by air
