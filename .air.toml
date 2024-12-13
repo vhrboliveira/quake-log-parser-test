@@ -6,7 +6,7 @@ tmp_dir = "tmp"
 
 # Watching files with the given extensions
 [build]
-cmd = "go build -o ./tmp/main ./cmd/log-parser"
+cmd = "go build -o ./tmp/main ./cmd/logparser"
 delay = 200
 include_ext = ["go", "tpl", "tmpl", "html"]
 exclude_dir = ["vendor", "tmp", "build", ".git", "deploy"]
