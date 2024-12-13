@@ -35,11 +35,10 @@ const (
 
 // Game events
 const (
-	INIT_GAME         = "InitGame"
-	KILL              = "Kill"
-	USER_INFO         = "ClientUserinfoChanged"
-	CLIENT_DISCONNECT = "ClientDisconnect"
-	END_GAME          = "ShutdownGame"
+	INIT_GAME = "InitGame"
+	KILL      = "Kill"
+	USER_INFO = "ClientUserinfoChanged"
+	END_GAME  = "ShutdownGame"
 )
 
 const WORLD = "<world>"
