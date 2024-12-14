@@ -1,0 +1,58 @@
+10:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+10:01 ClientConnect: 2
+10:01 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel\hmodel\uriel\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100
+10:01 Exit: Timelimit hit.
+10:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+10:01 ClientConnect: 2
+10:01 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel\hmodel\uriel\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100
+10:02 ClientBegin: 2
+10:03 ClientConnect: 3
+10:03 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\4\hc\90
+10:04 ClientBegin: 3
+10:05 ClientConnect: 4
+10:05 ClientUserinfoChanged: 4 n\Mocinha\t\0\model\keel\hmodel\keel\g_redteam\\g_blueteam\\c1\3\c2\3\hc\95
+10:06 ClientBegin: 4
+10:07 ClientConnect: 6
+10:07 ClientUserinfoChanged: 6 n\Chessus\t\0\model\visor\hmodel\visor\g_redteam\\g_blueteam\\c1\2\c2\2\hc\85
+10:08 ClientBegin: 6
+10:10 Kill: 2 3 7: Isgalamido killed Dono da Bola by MOD_ROCKET
+10:12 Kill: 2 4 7: Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
+10:14 Kill: 2 6 7: Isgalamido killed Chessus by MOD_ROCKET_SPLASH
+10:16 Kill: 3 6 7: Dono da Bola killed Chessus by MOD_ROCKET_SPLASH
+10:18 Kill: 4 6 7: Mocinha killed Chessus by MOD_ROCKET_SPLASH
+10:20 Kill: 6 6 7: Chessus killed Chessus by MOD_ROCKET_SPLASH
+10:21 Kill: 2 4 7: Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
+10:21 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
+10:22 Kill: 2 6 7: Isgalamido killed Chessus by MOD_ROCKET_SPLASH
+10:22 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+10:23 Exit: Timelimit hit.
+10:28 ShutdownGame:
+10:01 ------------------------------------------------------------
+10:01 ------------------------------------------------------------
+20:01 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
+20:01 ClientConnect: 2
+20:01 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel\hmodel\uriel\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100
+20:02 ClientBegin: 2
+20:03 ClientConnect: 3
+20:03 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\4\hc\90
+20:04 ClientBegin: 3
+20:05 ClientConnect: 4
+20:05 ClientUserinfoChanged: 4 n\Mocinha\t\0\model\keel\hmodel\keel\g_redteam\\g_blueteam\\c1\3\c2\3\hc\95
+20:06 ClientBegin: 4
+20:07 ClientConnect: 5
+20:07 ClientUserinfoChanged: 5 n\Oootsimo\t\0\model\visor\hmodel\visor\g_redteam\\g_blueteam\\c1\2\c2\2\hc\85
+20:08 ClientBegin: 5
+20:09 Kill: 2 3 7: Isgalamido killed Dono da Bola by MOD_ROCKET
+20:10 Kill: 3 2 7: Dono da Bola killed Isgalamido by MOD_ROCKET
+20:10 Kill: 2 4 7: Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
+20:11 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
+20:13 Kill: 2 5 7: Isgalamido killed Oootsimo by MOD_ROCKET_SPLASH
+20:15 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET
+20:16 Kill: 5 4 7: Oootsimo killed Mocinha by MOD_ROCKET_SPLASH
+20:16 Kill: 1022 4 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+20:18 Kill: 5 3 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+20:20 Kill: 5 4 7: Oootsimo killed Mocinha by MOD_ROCKET_SPLASH
+20:20 Kill: 1022 4 22: <world> killed Mocinha by MOD_TRIGGER_HURT
+20:21 Exit: Timelimit hit.
+10:28 ShutdownGame:
+10:01 ------------------------------------------------------------
