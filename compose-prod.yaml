@@ -1,0 +1,11 @@
+services:
+  quake-log-parser-prod:
+    container_name: quake-log-parser-prod
+    image: quake-log-parser:prod
+    environment:
+      - LOG_FILE=${LOG_FILE}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./assets:/app/assets
